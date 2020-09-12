@@ -1,5 +1,5 @@
 {
-  "name": "DiscordBot",
+  "name": "discordbot",
   "version": "1.0.0",
   "description": "1e disc bot",
   "main": "Main.js",
@@ -16,6 +16,6 @@
     "mysql": "^2.18.1",
     "nodemon": "^2.0.4",
     "sqlite3": "^5.0.0",
-    "node": "12.18.3"
+    "node": "13.18.3"
   }
 }
